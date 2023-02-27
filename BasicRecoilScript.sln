@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRecoilScript", "BasicRecoilScript\BasicRecoilScript.csproj", "{A3D5DBAA-DAAD-4108-A9A9-EFBE4111506C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D5DBAA-DAAD-4108-A9A9-EFBE4111506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D5DBAA-DAAD-4108-A9A9-EFBE4111506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D5DBAA-DAAD-4108-A9A9-EFBE4111506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D5DBAA-DAAD-4108-A9A9-EFBE4111506C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B74BFC2-36F8-4F88-AFC5-2155E693BB27}
+	EndGlobalSection
+EndGlobal
